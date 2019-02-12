@@ -10,3 +10,5 @@ else {
 }
 console.log(valor);
 }
+let objeto = {}; /* objeto usa palavras ao invés de índices*/ 
+/* não é possível fazer laço com objetos */ 
